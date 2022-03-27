@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Laravel, Ionic and Kotlin**
 
-- 👨‍💻 All of my projects are available at [carlosvalerio02.github.io](carlosvalerio02.github.io)
+- 👨‍💻 All of my projects are available at [carlosvalerio02.github.io](https://carlosvalerio02.github.io)
 
 - 💬 Ask me about **Java and Backend Development**
 
-- 📄 Know about my experiences [carlosvalerio02.github.io](carlosvalerio02.github.io)
+- 📄 Know about my experiences [carlosvalerio02.github.io](https://carlosvalerio02.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
