@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Carlos Valerio</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate Full Stack Developer from México</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosvalerio02&label=Profile%20views&color=0e75b6&style=flat" alt="carlosvalerio02" /> </p>
 
 - 🔭 I’m currently working on [Password Control](https://github.com/CarlosValerio02/PasswordControl)
 
-- 🌱 I’m currently learning **Laravel and Mobile Development**
+- 🌱 I’m currently learning **Laravel, Ionic and Kotlin**
 
-- 👨‍💻 All of my projects are available at [github.com/CarlosValerio02](github.com/CarlosValerio02)
+- 👨‍💻 All of my projects are available at [carlosvalerio02.github.io](carlosvalerio02.github.io)
 
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **carlosvalerio02.github.io**
+- 💬 Ask me about **Java and Backend Development**
 
 - 📄 Know about my experiences [carlosvalerio02.github.io](carlosvalerio02.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/carlosvalerio02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="carlosvalerio02" height="30" width="40" /></a>
 <a href="https://instagram.com/carlos_valerio02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlos_valerio02" height="30" width="40" /></a>
 </p>
 
